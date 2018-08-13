@@ -1,6 +1,8 @@
-# Life-Assistant--Query
-The best life assistant will bring you different surprises!
-Come here you will find a lot, mobile phone number attribution to the query, recipe query, ID card query, IP address. Rich in content, convenient and fast, no need for extra apps, one is all done!
-It provides you with a query function that supports a variety of life, it allows you to easily and quickly query a variety of commonly used information.
+#
+生活助手将带给您不同的惊喜！
+这里提供一个支持各种生活常用的查询功能给您,它能让您更方便、快速、简单的查询各种常用信息，比如手机号码归属地查询，食谱查询，身份证查询，IP地址等。 内容丰富，方便快捷，无需额外的应用程序，一个APP都完成了。
+赶快来下载吧！
+
+
 +19096185788
 c9j5z9@yeah.net
